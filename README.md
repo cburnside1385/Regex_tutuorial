@@ -1,2 +1,4 @@
 # Regex_tutuorial
-Regex tutuorial guide
+
+
+<a href="https://cburnside1385.github.io/Regex_tutuorial/" target="_blank">Regex tutuorial guide</a>
