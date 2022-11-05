@@ -1,7 +1,7 @@
 # Regex_tutuorial
 
 
-<a href="https://cburnside1385.github.io/Regex_tutuorial/" target="_blank">Regex tutuorial guide</a>
+<a href="https://gist.github.com/cburnside1385/33f0ef6f496de7cdfacec43dbb2a050c" target="_blank">Regex tutuorial guide</a>
 
 
 
